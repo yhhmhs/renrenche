@@ -1,0 +1,306 @@
+#renrencar {
+	width: 1350px;
+	margin: 0 auto;
+}
+.header,.banner-box,.buy-sell {
+	width: 1190px;
+	margin: 0 auto;
+}
+.logo {
+	width: 203px;
+	height: 60px;
+}
+.logo a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../images/logo.png) no-repeat;
+	text-indent: -9999px;
+}
+.nav {
+	width: 594px;
+	margin-left: 32px;
+}
+.nav li {
+	height: 60px;
+}
+.nav li a {
+	display: inline-block;
+	height: 60px;
+	line-height: 60px;
+	padding: 0 15px;
+	vertical-align: top;
+}
+.nav li span {
+	display: inline-block;
+	background: url(../images/icon.png) no-repeat left;
+	height: 60px;
+	width: 11px;
+	margin-left: 11px;
+	padding-right: 15px;
+}
+.nav li .last {
+	width: 114px;
+	background: url(../images/red-packet.png) no-repeat 15px 7px;
+}
+.login-iphone {
+	width: 275px;
+	margin: 14px 0;
+}
+.login {
+	width: 90px;
+	height: 32px;
+	border-right: 1px solid #222;
+}
+.login a {
+	width: 100%;
+	height: 100%;
+	line-height: 32px;
+	display: block;
+	color: #000;
+	padding-left: 38px;
+	background: url(../images/login.png) no-repeat left;
+}
+.iphone {
+	height: 32px;
+	line-height: 32px;
+	width: 138px;
+	padding-left: 17px;
+	background: url(../images/phone.png) no-repeat left;
+	font-size: 20px;
+	color: #fd521d;
+}
+.banner {
+	background-color: #f9f5f4;
+	border-top: 1px solid #ddd;
+}
+.banner-image {
+	width: 940px;
+	height: 352px;
+	background: url(../images/banner.png) no-repeat;
+}
+.banner-ul {
+	margin-top: 50px;
+	width: 250px;
+	background: #3c3b3b;
+}
+.banner-ul li {
+	width: 250px;
+	height: 60px;
+	border-bottom: 1px solid #515052;
+	
+}
+.banner-ul li a {
+	width: 230px;
+	height: 100%;
+	display: block;
+	line-height: 60px;
+	color: #fffefe;
+	font-size: 14px;
+	padding-left: 20px;
+}
+.banner-ul .last {
+	border-bottom: none;
+}
+.banner-ul li a:hover {
+	background: #29272a;
+	color: #fd683b;
+}
+.buy-sell {
+	margin: 20px auto;
+}
+.buy {
+	width: 750px;
+	height: 164px;
+	border-right: 1px solid #eee;
+}
+.car-msg {
+	width: 598px;
+	margin-left: 32px;
+}
+.msg-ul {
+	padding-left: 27px;
+	margin-bottom: 25px;
+	background: url(../images/star.png) no-repeat left;
+}
+.msg-ul li {
+	margin-right: 15px;
+	height: 20px;
+	line-height: 20px;
+}
+.msg-ul li a {
+	color: #222;
+	font-size: 12px;
+}
+.search {
+	width: 273px;
+	height: 38px;
+	border: 1px solid #ddd;
+	
+}
+.search input {
+	border: none;
+	width: 209px;
+	height: 12px;
+	padding: 14px 0 12px 20px;
+}
+.search a {
+	width: 38px;
+	height: 38px;
+	display: inline-block;
+	border-left: 1px solid #ddd;
+	background: url(../images/search.png) no-repeat center;
+}
+.sell {
+	width: 426px;
+	height: 164px; 
+}
+.sell-car {
+	width: 294px;
+}
+.sell-car h3 {
+	height: 37px;
+	line-height: 37px;
+	font-size: 15px;
+}
+.sell-car .tel-text {
+	width: 280px;
+	height: 38px;
+	padding-left: 10px;
+	margin-bottom: 14px;
+}
+.sell-car .sell-btn {
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	color: #fff;
+	background: #fd521d;
+	border: none;
+}
+.sell-select {
+	width: 294px;
+	height: 20px;
+	margin-top: 14px;
+	line-height: 20px;
+}
+.sell-select span {
+	font-size: 15px;
+	color: #acacac;
+}
+.sell-select i {
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	border: 1px solid #fd5400;
+	border-radius: 1px;
+	vertical-align: middle;
+	margin-left: 6px; 
+}
+.sell-select em {
+	font-size: 12px;
+}
+.weixin-box {
+	background: #f2f2f3; 
+	overflow: hidden;
+}
+.fenqi-box {
+	width: 1190px;
+	margin: 30px auto;
+}
+.weixin-ul {
+	width: 750px;
+}
+.weixin-ul li {
+	margin-right: 20px;
+	width: 230px;
+	height: 254px;
+	background: #fff;
+}
+.weixin-ul li a {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+.weixin-ul li a div {
+	width: 190px;
+	height: 187px;
+	margin-top: 22px;
+	margin-left: 19px;
+	background: url(../images/car.png) no-repeat bottom;
+}
+.weixin-ul li a div h3 {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.weixin-ul li a div p {
+	font-size: 13px;
+	color: #666;
+}
+.luntan {
+	width: 400px;
+	height: 210px;
+	padding: 24px 20px 20px;
+	background: #fff;
+}
+.luntan dt {
+	line-height: 21px;
+	margin-bottom: 13px;
+}
+.luntan dt h3 {
+	font-size: 21px;
+}
+.luntan dt a {
+	font-size: 12px;
+	color: #666;
+}
+.luntan dd {
+	width: 390px;
+	height: 22px;
+	line-height: 22px;
+	margin-bottom: 11px;
+	padding-left: 10px;
+	background: url(../images/disc.png) no-repeat left;
+}
+.luntan-msg {
+	width: 268px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: #222;
+	font-size: 14px;
+}
+.luntan dd .icon {
+	font-size: 12px;
+	color: #bbb;
+	height: 22px;
+	padding-right: 28px;
+	background: url(../images/icon-head.png) no-repeat right;
+}
+.pinggu {
+	width: 400px;
+	height: 38px;
+	border: 1px solid #eee;
+}
+.pinggu a {
+	width: 98px;
+	height: 100%;
+	display: inline-block;
+	line-height: 38px;
+	text-align: center;
+	font-size: 13px;
+	border-right: 1px solid #eee;
+}
+.pinggu .last {
+	border-right: none;
+}
+.pinggu a:hover {
+	color: orange;
+}
+.xxx {
+	position: relative;
+}
+.xxx img {
+	position: absolute;
+	left: 12px;
+	top: 5px;
+}
